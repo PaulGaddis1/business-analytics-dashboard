@@ -1,12 +1,13 @@
 # Business Analytics Dashboard (Excel)
-Interactive Excel dashboard analyzing fictional tech accessory sales (UTSA 2025).
+Analyzed 12 months of fictional tech accessory sales to identify top products and regional revenue trends.
 
-**Highlights**
-- Monthly revenue & regional performance
-- Top-product insights
-- PivotTables & charts for interactive analysis
+## Highlights
+- Monthly revenue & regional performance tracking
+- Top-product analysis and customer segmentation
+- Built with PivotTables, charts, and dynamic formatting
 
-**Tools:** Excel (PivotTables, Charts, Conditional Formatting)
+**Tools:** Microsoft Excel  
+**Skills:** Data cleaning, visualization, business analysis
 
-**Preview:** see `/screenshots`.
-
+**How to View:**  
+Open the `.xlsx` file in Excel or view sample images in `/screenshots`.
